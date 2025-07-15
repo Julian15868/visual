@@ -16,8 +16,9 @@ def potenciacion(a):
     return a**2
 
 if __name__ == "__main__":
-    print("Suma:", sumar(11, 22))
+    print("Suma:", sumar(13, 23))
     print("Resta:", restar(5, 3))
     print("Multiplicación:", multiplicar(5, 3))
     print("División:", dividir(5, 3))
     print("potenciacion",potenciacion(2))
+
